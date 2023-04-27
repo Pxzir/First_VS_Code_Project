@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(130, 134, 134);
+    display: flex;
+    justify-content: center;
+    color: white
+}
+img {
+    max-width: 500px;
+    height: auto;
+}
